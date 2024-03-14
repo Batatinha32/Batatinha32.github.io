@@ -18,6 +18,11 @@ p {
 }
 
 img {
-	text-align: center:
-	width: 50%; 
+	width: 200;
+	height: 281; 
+}
+
+a {
+	color: white;
+	text-align: center;
 }
