@@ -21,11 +21,12 @@ p {
 }
 
 img {
-	width: 200;
-	height: 281; 
+	width: 300;
+	height: 422;
+	
 }
 
 a {
-	color: white;
+	color: #00FF00;
 	text-align: center;
 }
