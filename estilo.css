@@ -3,15 +3,19 @@ body{
 }
 h1 {
 	text-align: center;
+	color: red;
 }
 h2 {
 	text-align: center;
+	color: yellow;
 }
 h4 {
 	text-align: center;
+	color: blue;
 }
 p {
 	text-align: center;
+	color: white;
 }
 img {
 	text-align: center:
