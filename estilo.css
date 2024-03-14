@@ -5,16 +5,19 @@ body{
 h1 {
 	text-align: center;
 	color: red;
+	font: sarif;
 }
 
 h4 {
 	text-align: center;
 	color: #FFD700;
+	font: sarif;
 }
 
 p {
 	text-align: center;
 	color: white;
+	font: sans sarif;
 }
 
 img {
