@@ -8,7 +8,7 @@ body {
 
 @font-face {
   font-family: MADCBB;
-  src: url(m04.ttf) format(truetype);
+  src: url(m04.TTF) format(truetype);
 }
 
 a:link { 
