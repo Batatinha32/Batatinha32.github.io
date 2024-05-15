@@ -1,0 +1,24 @@
+10~ h 
+	Pesquisa de metodos html
+	pesquisa de font
+	criação das estrelas do background
+	Pesquisa de Signos
+10~ h
+	criação do html
+	criação do header
+	Criação das paginass dos signos
+	Criação do Css
+
+10~h
+	Modificação do Css
+	Consertando página Index.
+	Adicionar descrição
+	Persquisar sobre Ascendentes
+
+10~h
+	assets
+	pesquisa de Animação de imagem
+	perquisa de outline e border
+	mais trabalho no index
+	Retrabalhando fontes, adicionando mais do que duas.
+

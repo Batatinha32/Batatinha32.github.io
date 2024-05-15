@@ -1,0 +1,62 @@
+html {
+		height: 100%;
+}
+
+body {
+	background: url("bg.png") repeat left top, linear-gradient(to bottom, #000010 70%, #00285d);
+}
+
+@font-face {
+  font-family: MADCBB;
+  src: url(m04.ttf) format(truetype);
+}
+
+a:link { 
+  text-decoration: none; 
+  color: #00aef8;
+  font-family: MADCBB;
+} 
+
+h1 {
+	font-size: 60 px;
+	font-weight: bold;
+	color: #00aef8;
+  font-family: MADCBB;
+}
+
+h3 {
+	font-size: 30px;
+	color: #5667ff;
+	 border: solid;
+}
+
+p {
+	width: 700px;
+	font-size:20px;
+	color: #00aef8;
+	border: solid;
+	border-style: double;
+	background-color: rgba(0,5,12,0.7);
+	font-family: commando;
+}
+
+div {
+  animation-name: spin;
+  animation-duration: 10000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+@font-face {
+  font-family: commando;
+  src: url(EnterCommand.ttf) format(truetype);
+}
