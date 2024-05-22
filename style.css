@@ -25,13 +25,13 @@ h1 {
   font-family: MADCBB;
 }
 
-table, tr, td {
+table,tr,td {
 	border: 1px solid #00aef8;
 	border-collapse: collapse;
 	padding: 5px;
 	font-family: commando;
 }
-thread {
+thread,tbody {
 	background: #016894;
 }
 h3 {
