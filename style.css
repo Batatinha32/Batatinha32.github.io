@@ -29,6 +29,7 @@ table, tr, td {
 	border: 1px solid #00aef8;
 	border-collapse: collapse;
 	padding: 5px;
+	font-family: commando;
 }
 thread {
 	background: #016894;
