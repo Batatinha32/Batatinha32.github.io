@@ -16,9 +16,7 @@ a:link {
   color: #00aef8;
   font-family: MADCBB;
 } 
-thread {
-	background:#016894;
-}
+
 h1 {
 	font-size: 60 px;
 	font-weight: bold;
@@ -30,6 +28,8 @@ table {
 	border: 2px solid #00aef8;
 	border-collapse: collapse;
 }
+thread {
+	background: #016894;
 }
 td {
 	padding: 5px;
