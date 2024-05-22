@@ -25,15 +25,13 @@ h1 {
   font-family: MADCBB;
 }
 
-table {
-	border: solid #00aef8;
+table, tr, td {
+	border: 1px solid #00aef8;
 	border-collapse: collapse;
+	padding: 5px;
 }
 thread {
 	background: #016894;
-}
-td {
-	padding: 5px;
 }
 h3 {
 	font-size: 30px;
