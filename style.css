@@ -16,7 +16,9 @@ a:link {
   color: #00aef8;
   font-family: MADCBB;
 } 
-
+thread {
+	background:#016894;
+}
 h1 {
 	font-size: 60 px;
 	font-weight: bold;
@@ -28,13 +30,9 @@ table {
 	border: 2px solid #00aef8;
 	border-collapse: collapse;
 }
-tr {
-	border: 2px solid #00aef8;
-	border-collapse: collapse;
 }
 td {
-	border: 2px solid #00aef8;
-	border-collapse: collapse;
+	padding: 5px;
 }
 h3 {
 	font-size: 30px;
