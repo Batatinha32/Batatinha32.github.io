@@ -24,6 +24,10 @@ h1 {
   font-family: MADCBB;
 }
 
+table, tr, td {
+	border: 2px solid #00aef8;
+	border-collapse: collapse;
+}
 h3 {
 	font-size: 30px;
 	color: #5667ff;
