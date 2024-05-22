@@ -4,6 +4,7 @@ html {
 
 body {
 	background: url("bg.png") repeat left top, linear-gradient(to bottom, #000010 70%, #00285d);
+	color: #00aef8;
 }
 
 @font-face {
