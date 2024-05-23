@@ -1,10 +1,9 @@
 html {
-		height: 100%;
+		height: 105%;
 }
 
 body {
 	background: url("bg.png") repeat left top, linear-gradient(to bottom, #000010 70%, #00285d);
-	color: #00aef8;
 }
 
 @font-face {
@@ -25,15 +24,6 @@ h1 {
   font-family: MADCBB;
 }
 
-table,tr,td {
-	border: 1px solid #00aef8;
-	border-collapse: collapse;
-	padding: 8px;
-	font-family: commando;
-}
-thread,tbody {
-	background: black;
-}
 h3 {
 	font-size: 30px;
 	color: #5667ff;
@@ -69,4 +59,35 @@ div {
 @font-face {
   font-family: commando;
   src: url(EnterCommand.ttf) format(truetype);
+}
+
+h2 {
+	width: 300px;
+	font-size:20px;
+	color: #00aef8;
+	border: solid;
+	border-style: double;
+	background-color: rgba(0,5,12,0.7);
+	font-family: commando;
+}
+table,tr,td {
+	color: #5667ff;
+	border: 1px solid #00aef8;
+	border-collapse: collapse;
+	padding: 8px;
+	font-family: commando;
+}
+
+table {
+	width: 200px;
+	border: solid;
+	border-style: double;
+	background-color: rgba(0,5,12,1);
+}
+
+footer {
+	width: 200px;
+	border: solid;
+	border-style: double;
+	background-color: rgba(0,5,12,1);
 }
